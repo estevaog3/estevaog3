@@ -49,9 +49,6 @@ Here are the main tools, technologies and stuff that I've worked with. Currently
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter notebook" width="40" height="40"/> </a> 
 </p>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=estevaog3&show_icons=true&locale=en&layout=compact&theme=dark&exclude_repo=Analise-de-Algoritmos,pibic-notebooks,deteccao-de-cenas" alt="estevaog3" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=estevaog3&show_icons=true&locale=en&theme=dark" alt="estevaog3" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=estevaog3&show_icons=true&locale=en&layout=compact&theme=dark&exclude_repo=Analise-de-Algoritmos,pibic-notebooks,deteccao-de-cenas" alt="estevaog3" /></p>
 
-<p></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=estevaog3&show_icons=true&locale=en&theme=dark" alt="estevaog3" /></p>
