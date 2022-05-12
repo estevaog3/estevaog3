@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Estevão</h1>
 <h3 align="center">A passionate web developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=estevaog3&label=Profile%20views&color=0e75b6&style=flat" alt="estevaog3" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estevaog3" alt="estevaog3" /></a> </p>
-
 - 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/estevaog3)**, **eccosta@protonmail.com**
 
 ## Skills
@@ -53,8 +49,11 @@ Here are the main tools, technologies and stuff that I've worked with. Currently
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter notebook" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=estevaog3&show_icons=true&locale=en&layout=compact" alt="estevaog3" /></p>
+<hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=estevaog3&show_icons=true&locale=en" alt="estevaog3" /></p>
+<p style="display: flex; justify-content: space-evenly; margin: 1rem;">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=estevaog3&show_icons=true&locale=en&layout=compact&theme=dark&exclude_repo=Analise-de-Algoritmos,pibic-notebooks,deteccao-de-cenas" alt="estevaog3" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=estevaog3&show_icons=true&locale=en&theme=dark" alt="estevaog3" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=estevaog3&theme=default" alt="estevaog3" /> </p>
+<p></p>
