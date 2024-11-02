@@ -1,6 +1,6 @@
 # estevaog3
 
-Olá, mundo! Bem vindos ao meu GitHub. Aqui é o meu laboratório. Só não repara na bagunça hehe, pois estou fazendo uma reforma. 
+Olá, mundo! Bem vindos ao meu GitHub. Aqui é o meu laboratório. Só não repara na bagunça hehe, pois estou fazendo uma reforma.
 
 Espero que possa inspira-los para novas ideias e projetos, _have fun!_ 🙂
 
@@ -27,3 +27,5 @@ Espero que possa inspira-los para novas ideias e projetos, _have fun!_ 🙂
 ## Contato 
 - **[LinkedIn](https://linkedin.com/in/estevaog3)**
 - **estevao.webdev@gmail.com**
+
+## [Blog](https://estevaocosta.vercel.app/)
