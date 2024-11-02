@@ -29,3 +29,5 @@ Espero que possa inspira-los para novas ideias e projetos, _have fun!_ 🙂
 - **estevao.webdev@gmail.com**
 
 ## [Blog](https://estevaocosta.vercel.app/)
+
+Iniciei recentemente um blog sobre a vida, o universo e tudo mais.
